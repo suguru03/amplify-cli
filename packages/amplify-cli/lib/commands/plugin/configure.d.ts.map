@@ -1,0 +1,1 @@
+{"version":3,"file":"configure.d.ts","sourceRoot":"","sources":["../../../src/commands/plugin/configure.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,OAAO,EAAE,MAAM,sBAAsB,CAAC;AAC/C,OAAO,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAe9D,eAAO,MAAM,GAAG,YAAmB,OAAO,KAAG,QAAQ,cAAc,CAsClE,CAAC;AA6OF,wBAAsB,iBAAiB,CAAC,OAAO,EAAE,OAAO,EAAE,cAAc,EAAE,cAAc,iBAgCvF"}

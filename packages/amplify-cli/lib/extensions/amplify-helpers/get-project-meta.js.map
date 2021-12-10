@@ -1,0 +1,1 @@
+{"version":3,"file":"get-project-meta.js","sourceRoot":"","sources":["../../../src/extensions/amplify-helpers/get-project-meta.ts"],"names":[],"mappings":";;;AAAA,uDAAqE;AAErE,SAAgB,cAAc;IAC5B,IAAI,CAAC,+BAAY,CAAC,cAAc,EAAE,EAAE;QAClC,MAAM,IAAI,sCAAmB,EAAE,CAAC;KACjC;IAED,OAAO,+BAAY,CAAC,OAAO,EAAE,CAAC;AAChC,CAAC;AAND,wCAMC"}
